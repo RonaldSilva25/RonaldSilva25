@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0245c6b5-ed2e-4cf7-8e63-8dadcb005f85)## Oii eu sou o Ronald Silva, Programador e estudante!
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronald-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ronald-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
