@@ -5,9 +5,9 @@
   <img align="center" alt="Ronald-boostrap" height="30" width="40" src="http://learnkode.com/files/Bootstrap.png">
   <img align="center" alt="Ronald-tailwind" height="30" width="40" src="https://github.com/user-attachments/assets/2dda3358-23c2-4d55-bd10-0d73b02944a6">
 </div>
-  
+
   ##
- 
+
 <div> 
   <a href="https://instagram.com/ronald_silva_00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ummessemmijar" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
